@@ -33,7 +33,7 @@
     "@hookform/error-message": "^2.0.1",
     "@mdx-js/loader": "^3.1.1",
     "@mdx-js/react": "^3.1.1",
-    "@modelcontextprotocol/sdk": "^1.25.3",
+    "@modelcontextprotocol/sdk": "^1.26.0",
     "@mui/icons-material": "^7.3.7",
     "@mui/material": "^7.3.7",
     "@next/mdx": "^16.1.5",
